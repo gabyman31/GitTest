@@ -1,1 +1,1 @@
-# GitTest-in-Eclipse
+# GitTest
